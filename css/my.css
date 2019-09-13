@@ -1,0 +1,19 @@
+/* Here is your custom css styles. */
+*{
+    font-family:"Roboto", Arial, sans-serif
+}
+
+.github-corner svg{
+    color:#36b1da  
+}
+.fh5co-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #2a2d36;
+    opacity: .20;
+    z-index: 9;
+}
+
